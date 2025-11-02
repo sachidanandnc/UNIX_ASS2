@@ -1,4 +1,4 @@
-## 🛠️ Environment Setup (WSL Installation)
+##  Environment Setup (WSL Installation)
 
 Follow these steps to ensure your Linux environment is ready for development.
 
@@ -30,7 +30,7 @@ cd project
 
 -----
 
-## ✍️ Code and Dependency Installation
+##  Code and Dependency Installation
 
 ### 5\. Create the Source File
 
@@ -53,13 +53,13 @@ sudo apt-get install libreadline-dev gcc
 
 > **Required Components Check:**
 >
->   * ✅ **`gcc-core`**: The C Compiler tool.
->   * ✅ **`libreadline-devel`** (`libreadline-dev` on Ubuntu): The Library (development files).
+>   *  **`gcc-core`**: The C Compiler tool.
+>   *  **`libreadline-devel`** (`libreadline-dev` on Ubuntu): The Library (development files).
 >   * *(**`make`** is typically installed automatically as a dependency or is already present, but is good to verify for larger projects.)*
 
 -----
 
-## ▶️ Compile and Run
+##  Compile and Run
 
 ### 7\. Compile the Program
 
