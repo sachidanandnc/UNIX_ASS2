@@ -1,4 +1,3 @@
-// Mini Unix Shell - Enhanced Version for Project Submission
 // Team Project: 5 Students
 // Compile: gcc -o myshell shell.c -lreadline
 // Run: ./myshell
