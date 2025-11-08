@@ -78,7 +78,3 @@ Run your newly compiled program from the terminal:
 ```
 
 Your custom shell is now running and awaiting commands\!
-
------
-
-Would you like me to help you outline the key functions a basic shell written in C needs (like parsing, forking, and executing)?
